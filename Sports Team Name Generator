@@ -1,0 +1,4 @@
+print("Welcome to the Sports Team's Name Generator!")
+city = input("What is the name of the city you grew up in?\n")
+name1 = input("What is the name of your favorite sports team?\n")
+print("Your new team name is the" ,city,name1, ". Have fun!")
